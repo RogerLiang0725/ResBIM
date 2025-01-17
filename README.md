@@ -10,11 +10,11 @@ https://drive.google.com/file/d/1GjC6jVtIT6BucIOgahRc4MoglN606wmp/view?usp=drive
 
 Currently, partial ResBIM dataset is publicly open (328 BIMs)
 
-## Supplementary Materials (400M)　　
+## Source codes (400M)　　
+The source codes, networks and others can be downloaded here:
+
+
 https://drive.google.com/file/d/1KBy_ff7xQid32mTbLn__uJ6SuPaWu3vL/view?usp=drive_link
 
-
-The source codes, networks and others are in the Supplementary Materials
-
 ## Get started　　
-- Read the readme.pdf in the supplymenraty folder.
+- Read the readme.pdf in the source code folder.
