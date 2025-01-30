@@ -4,6 +4,8 @@ The codings and data here are for the paper titled　　
 
 "A framework for fully automated building information models (BIMs) dataset generation from synthetic floor plans"　　
 
+The ResBIM dataset, codings, deep learning model, etc, mentioned in the paper could be found following:
+
 ## ResBIM dataset download (2.1G)　　
 https://drive.google.com/file/d/1GjC6jVtIT6BucIOgahRc4MoglN606wmp/view?usp=drive_link
 
