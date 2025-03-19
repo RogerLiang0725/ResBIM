@@ -1,4 +1,4 @@
-Welcome to **RES**idential **UN**it **BIM** **RESUN-BIM**!　　
+Welcome to **RES**idential **UN**it **BIM** dataset (**RESUN-BIM** dataset)!　　
 
 The codings and data here are for the paper titled　　
 
