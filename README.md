@@ -2,7 +2,7 @@ Welcome to **Res**idential Unit **BIM** dataset (**ResBIM** dataset)!　　
 
 The ResBIM dataset, codings, deep learning models, etc, mentioned in the paper could be found following:
 
-## A sample data point in Res BIM dataset
+## A sample data point in ResBIM dataset
 This .zip file contains the data mentioned in the paper, including a point cloud, single BIM, the corresponding 2D annotated drawings, and two multiple BIMs.
 
 https://drive.google.com/file/d/1gh4TiEJGkcjuqtO2e13mVQOYxWl5oGbI/view?usp=drive_link
