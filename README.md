@@ -4,6 +4,7 @@ The Res BIM dataset, codings, deep learning model, etc, mentioned in the paper c
 
 ## A sample data point in Res BIM dataset
 This .zip file contains the data mentioned in the paper, including a point cloud, single BIM, the corresponding 2D annotated drawing, and two multiple BIMs.
+
 https://drive.google.com/file/d/1gh4TiEJGkcjuqtO2e13mVQOYxWl5oGbI/view?usp=drive_link
 
 ## Res BIM dataset download (2.1G)　　
