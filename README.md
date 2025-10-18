@@ -12,9 +12,9 @@ ResBIM is intended for a wide range of applications, including multi-platform BI
 
 - 2D-to-BIM evaluation and benchmarking support. These pairs enable not only training of advanced AI models but also reproducible evaluation of 2D-to-BIM algorithms using metrics reliant on RF BIMs. 
 - Obtaining various types of 2D drawings. Because BIMs are semantically rich 3D representations, all BIMs in the dataset can be converted into various 2D views such as floor plans, elevations, and cross-sections. This also addresses a common limitation highlighted in previous studies: the lack of annotated elevation drawings with height information, which has largely restricted 2D-to-BIM data extraction to planar geometry instead of multi-view representations.
-- Conversion to point cloud. As shown in Fig.3 every BIM model could be converted to a point cloud with RGB, which can support point cloud studies.
+- Conversion to point cloud. As shown in **Figure. 3** every BIM model could be converted to a point cloud with RGB, which can support point cloud studies. 
 
-**(Notice)** For the full size dataset, there are several **failure cases** in the dataset as mentioned in the paper (e.g., 313 no openings, 732 inserted out of the range, 327 collision), **please be careful when you are using it**. 
+**(Notice)** In the full size dataset, there are several **failure cases** in the dataset as mentioned in the paper (e.g., 313 no openings, 732 inserted out of the range, 327 collision). **Please be careful when you are using it**. 
 
 ## ResBIM dataset download 
 One data sample could be download here: https://drive.google.com/file/d/1gh4TiEJGkcjuqtO2e13mVQOYxWl5oGbI/view?usp=drive_link
@@ -29,11 +29,18 @@ Revit Add-Ins and networks: https://drive.google.com/file/d/1KBy_ff7xQid32mTbLn_
 ## Get started　　
 - Read the readme.pdf in the source code folder.
 
-## Citation
+## Citation （BibTeX）
 ```
-Liang, X., Yabuki, N., & Fukuda, T. (2026). Fully automated synthetic BIM dataset generation using a deep learning-based framework. Automation in Construction, 181, 106584. https://doi.org/10.1016/j.autcon.2025.106584
-
-
+@article{LIANG2026106584,
+title = {Fully automated synthetic BIM dataset generation using a deep learning-based framework},
+journal = {Automation in Construction},
+volume = {181},
+pages = {106584},
+year = {2026},
+issn = {0926-5805},
+doi = {https://doi.org/10.1016/j.autcon.2025.106584},
+url = {https://www.sciencedirect.com/science/article/pii/S0926580525006247},
+author = {Xing Liang and Nobuyoshi Yabuki and Tomohiro Fukuda},
 ```
 ## Figures
 
