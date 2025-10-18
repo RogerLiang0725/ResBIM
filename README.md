@@ -19,22 +19,14 @@ ResBIM is intended for a wide range of applications, including multi-platform BI
 **(Notice)** In the full size dataset, there are several **failure cases** in the dataset as mentioned in the paper (e.g., 313 no openings, 732 inserted out of the range, 327 collision). **Please be careful when you are using it**. 
 
 ## ResBIM dataset download 
-One data sample could be download here: 
+One data sample could be download here: https://drive.google.com/file/d/1gh4TiEJGkcjuqtO2e13mVQOYxWl5oGbI/view?usp=drive_link
 
-https://drive.google.com/file/d/1gh4TiEJGkcjuqtO2e13mVQOYxWl5oGbI/view?usp=drive_link
+100 models (700M): https://drive.google.com/file/d/1WvWMU4Ox459QXr1kYLfTqaMp2rR0mfpO/view?usp=drive_link
 
-100 models (700M): 
-
-https://drive.google.com/file/d/1WvWMU4Ox459QXr1kYLfTqaMp2rR0mfpO/view?usp=drive_link
-
-Full size dataset (7GB, 1000+ models): 
-
-https://drive.google.com/file/d/1MzY92Xw0bOjCWDHMJtWjqYzZew_MOhUS/view?usp=drive_link
+Full size dataset (7GB, 1000+ models): https://drive.google.com/file/d/1MzY92Xw0bOjCWDHMJtWjqYzZew_MOhUS/view?usp=drive_link
 
 ## Source codes (400M)　
-Include C#-based Revit Add-Ins and python-based networks: 
-
-https://drive.google.com/file/d/1KBy_ff7xQid32mTbLn__uJ6SuPaWu3vL/view?usp=drive_link
+Include C#-based Revit Add-Ins and python-based networks: https://drive.google.com/file/d/1KBy_ff7xQid32mTbLn__uJ6SuPaWu3vL/view?usp=drive_link
 
 ## Get started　　
 - Download the source code and there is a **readme.pdf**.
@@ -53,17 +45,16 @@ doi = {https://doi.org/10.1016/j.autcon.2025.106584},
 url = {https://www.sciencedirect.com/science/article/pii/S0926580525006247},
 author = {Xing Liang and Nobuyoshi Yabuki and Tomohiro Fukuda},
 ```
+
 ## Figures
 
 <h1 align="center"><img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/2346ea41-9b7f-45ea-8582-984eef955f8a" /></h1>
 
 <h1 align="center"><b>Figure 1.</b> BIM in ResBIM dataset</h1>
 
-
 <h1 align="center"><img width="500" height="510" alt="image" src="https://github.com/user-attachments/assets/11e1ece6-3e0d-4b56-80a4-74df1f7e8851" /></h1>
 
 <h1 align="center"><b>Figure 2.</b> Corresponding annotated floor plan</h1>
-
 
 <h1 align="center"><img width="680" height="490" alt="image" src="https://github.com/user-attachments/assets/29ef6ee5-9ccd-49a6-bce6-c216357bdf06" /></h1>
 
