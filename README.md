@@ -29,7 +29,8 @@ Full size dataset (7GB, 1000+ models): https://drive.google.com/file/d/1MzY92Xw0
 Revit Add-Ins and networks: https://drive.google.com/file/d/1KBy_ff7xQid32mTbLn__uJ6SuPaWu3vL/view?usp=drive_link
 
 ## Get started　　
-- Read the readme.pdf in the source code folder.
+- Download the source code and there is a **readme.pdf**.
+- The structure and the usage of each coding are introduced in the file.
 
 ## Citation （BibTeX）
 ```
