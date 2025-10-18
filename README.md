@@ -5,14 +5,16 @@ This dataset is a part of the contributions of our paper titled <b><i>"Fully aut
 
 ResBIM is a synthetic dataset created by CNN and rule-based algorithms, designed specifically for research in BIM automation and 2D-to-BIM reconstruction. The dataset comprises 1000+ paired samples, each consisting of a fully parametric 3D BIM (RVT format) and its corresponding annotated 2D floor plan, as shown in **Figures 1, 2, and 3** at the end of texts. 
 
-If you use the ResBIM data or code please cite our work: Liang, X., Yabuki, N., & Fukuda, T. (2026). Fully automated synthetic BIM dataset generation using a deep learning-based framework. Automation in Construction, 181, 106584. https://doi.org/10.1016/j.autcon.2025.106584
+If you use the ResBIM data or code please cite our work: 
+
+Liang, X., Yabuki, N., & Fukuda, T. (2026). Fully automated synthetic BIM dataset generation using a deep learning-based framework. Automation in Construction, 181, 106584. https://doi.org/10.1016/j.autcon.2025.106584
 
 ## Usage of ResBIM dataset
 ResBIM is intended for a wide range of applications, including multi-platform BIM interoperability, serving as a foundation for benchmarking 2D-to-BIM algorithms, and the development of computer vision models for architectural analysis. The dataset supports a wide range of use cases, including but not limited to the following:
 
 - 2D-to-BIM evaluation and benchmarking support. These pairs enable not only training of advanced AI models but also reproducible evaluation of 2D-to-BIM algorithms using metrics reliant on RF BIMs. 
 - Obtaining various types of 2D drawings. Because BIMs are semantically rich 3D representations, all BIMs in the dataset can be converted into various 2D views such as floor plans, elevations, and cross-sections. This also addresses a common limitation highlighted in previous studies: the lack of annotated elevation drawings with height information, which has largely restricted 2D-to-BIM data extraction to planar geometry instead of multi-view representations.
-- Conversion to point cloud. As shown in **Figure. 3** every BIM model could be converted to a point cloud with RGB, which can support point cloud studies. 
+- Conversion to point cloud. As shown in **Figure. 3**. Every BIM model could be converted to a point cloud with RGB, which can support point cloud studies. 
 
 **(Notice)** In the full size dataset, there are several **failure cases** in the dataset as mentioned in the paper (e.g., 313 no openings, 732 inserted out of the range, 327 collision). **Please be careful when you are using it**. 
 
