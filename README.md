@@ -1,6 +1,8 @@
 # Introduction of ResBIM dataset
 Welcome to **Res**idential Unit **BIM** dataset (**ResBIM** dataset), this is a totally PUBLIC dataset.
 
+This dataset is a part of the contributions of our paper titled "Fully automated synthetic BIM dataset generation using a deep learning-based framework" in Automation in Construction.
+
 ResBIM is a synthetic dataset created by CNN and rule-based algorithms, designed specifically for research in BIM automation and 2D-to-BIM reconstruction. The dataset comprises 1000+ paired samples, each consisting of a fully parametric 3D BIM (RVT format) and its corresponding annotated 2D floor plan. 
 
 ## Usage of ResBIM dataset
@@ -42,5 +44,5 @@ Revit Add-Ins and networks: https://drive.google.com/file/d/1KBy_ff7xQid32mTbLn_
 ## Citation
 If you use the ResBIM data or code please cite our work:
 ```
-Fully automated synthetic BIM dataset generation using a deep learning-based framework
+Liang, X., Yabuki, N., & Fukuda, T. (2026). Fully automated synthetic BIM dataset generation using a deep learning-based framework. Automation in Construction, 181, 106584. https://doi.org/10.1016/j.autcon.2025.106584
 ```
