@@ -8,17 +8,17 @@ ResBIM is a synthetic dataset created by CNN and rule-based algorithms, designed
 ## Usage of ResBIM dataset
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/2346ea41-9b7f-45ea-8582-984eef955f8a" />
 
-<h1 align="center">**Figure 1.** BIM in ResBIM dataset</h1>
+<h1 align="center"><b>Figure 1.</b> BIM in ResBIM dataset</h1>
 
 
 <img width="500" height="510" alt="image" src="https://github.com/user-attachments/assets/11e1ece6-3e0d-4b56-80a4-74df1f7e8851" />
 
-<h1 align="center">**Figure 2.** Corresponding annotated floor plan</h1>
+<h1 align="center"><b>Figure 2.</b> Corresponding annotated floor plan</h1>
 
 
 <img width="680" height="490" alt="image" src="https://github.com/user-attachments/assets/29ef6ee5-9ccd-49a6-bce6-c216357bdf06" />
 
-<h1 align="center">**Figure 3.** Corresponding RGB point cloud</h1>
+<h1 align="center"><b>Figure 3.</b> Corresponding RGB point cloud</h1>
 
 
 A sample could be download here: https://drive.google.com/file/d/1gh4TiEJGkcjuqtO2e13mVQOYxWl5oGbI/view?usp=drive_link
@@ -45,4 +45,6 @@ Revit Add-Ins and networks: https://drive.google.com/file/d/1KBy_ff7xQid32mTbLn_
 If you use the ResBIM data or code please cite our work:
 ```
 Liang, X., Yabuki, N., & Fukuda, T. (2026). Fully automated synthetic BIM dataset generation using a deep learning-based framework. Automation in Construction, 181, 106584. https://doi.org/10.1016/j.autcon.2025.106584
+
+
 ```
