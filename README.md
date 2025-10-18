@@ -6,17 +6,17 @@ This dataset is a part of the contributions of our paper titled <b><i>"Fully aut
 ResBIM is a synthetic dataset created by CNN and rule-based algorithms, designed specifically for research in BIM automation and 2D-to-BIM reconstruction. The dataset comprises 1000+ paired samples, each consisting of a fully parametric 3D BIM (RVT format) and its corresponding annotated 2D floor plan. 
 
 ## Usage of ResBIM dataset
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/2346ea41-9b7f-45ea-8582-984eef955f8a" />
+<h1 align="center"><img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/2346ea41-9b7f-45ea-8582-984eef955f8a" /></h1>
 
 <h1 align="center"><b>Figure 1.</b> BIM in ResBIM dataset</h1>
 
 
-<img width="500" height="510" alt="image" src="https://github.com/user-attachments/assets/11e1ece6-3e0d-4b56-80a4-74df1f7e8851" />
+<h1 align="center"><img width="500" height="510" alt="image" src="https://github.com/user-attachments/assets/11e1ece6-3e0d-4b56-80a4-74df1f7e8851" /></h1>
 
 <h1 align="center"><b>Figure 2.</b> Corresponding annotated floor plan</h1>
 
 
-<img width="680" height="490" alt="image" src="https://github.com/user-attachments/assets/29ef6ee5-9ccd-49a6-bce6-c216357bdf06" />
+<h1 align="center"><img width="680" height="490" alt="image" src="https://github.com/user-attachments/assets/29ef6ee5-9ccd-49a6-bce6-c216357bdf06" /></h1>
 
 <h1 align="center"><b>Figure 3.</b> Corresponding RGB point cloud</h1>
 
