@@ -46,6 +46,9 @@ url = {https://www.sciencedirect.com/science/article/pii/S0926580525006247},
 author = {Xing Liang and Nobuyoshi Yabuki and Tomohiro Fukuda},
 ```
 
+## License
+This project is licensed under the [MIT License](./LICENSE) - see the LICENSE file for details.
+
 ## Figures
 
 <h1 align="center"><img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/2346ea41-9b7f-45ea-8582-984eef955f8a" /></h1>
