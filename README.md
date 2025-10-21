@@ -14,9 +14,9 @@ Because ResBIM is a public dataset, so everyone can download and use it. But you
 
 This video tutorial introduces how you can laverage the source codes and start to develop and customerize your own dataset.  If you have a similar research with mine, I believe ResBIM dataset and the source codes are helpful to accelerate your research. 
 
-YouTube: https://youtu.be/5yEkafzuclk
+- [YouTube](https://youtu.be/5yEkafzuclk）
 
-BiliBili: https://www.bilibili.com/video/BV1dvWmzTEcc
+- [BiliBili](https://www.bilibili.com/video/BV1dvWmzTEcc)
 
 
 ## Usage of ResBIM dataset
@@ -29,14 +29,14 @@ ResBIM is intended for a wide range of applications, including multi-platform BI
 **(Notice)** In the full size dataset, there are several **failure cases** in the dataset as mentioned in the paper (e.g., 313 no openings, 732 inserted out of the range, 327 collision). **Please be careful when you are using it**. 
 
 ## ResBIM dataset download 
-[One data sample](https://drive.google.com/file/d/1gh4TiEJGkcjuqtO2e13mVQOYxWl5oGbI/view?usp=drive_link)
+- [One data sample](https://drive.google.com/file/d/1gh4TiEJGkcjuqtO2e13mVQOYxWl5oGbI/view?usp=drive_link)
 
-[100 models (700M)](https://drive.google.com/file/d/1WvWMU4Ox459QXr1kYLfTqaMp2rR0mfpO/view?usp=drive_link)
+- [100 models (700M)](https://drive.google.com/file/d/1WvWMU4Ox459QXr1kYLfTqaMp2rR0mfpO/view?usp=drive_link)
 
-[Full size dataset (7GB, 1000+ models)](https://drive.google.com/file/d/1MzY92Xw0bOjCWDHMJtWjqYzZew_MOhUS/view?usp=drive_link)
+- [Full size dataset (7GB, 1000+ models)](https://drive.google.com/file/d/1MzY92Xw0bOjCWDHMJtWjqYzZew_MOhUS/view?usp=drive_link)
 
 ## Source codes (400M)　
-Include C#-based Revit Add-Ins and python-based networks: https://drive.google.com/file/d/1KBy_ff7xQid32mTbLn__uJ6SuPaWu3vL/view?usp=drive_link
+[Source codes](https://drive.google.com/file/d/1KBy_ff7xQid32mTbLn__uJ6SuPaWu3vL/view?usp=drive_link) include C#-based Revit Add-Ins and python-based networks. 
 
 ## Get started　　
 - Download the source code and there is a **readme.pdf**.
