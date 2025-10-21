@@ -59,6 +59,11 @@ author = {Xing Liang and Nobuyoshi Yabuki and Tomohiro Fukuda},
 ## License
 This project is licensed under the [MIT License](./LICENSE) - see the LICENSE file for details.
 
+## 🔗 Links
+- [GitHub Repository](https://github.com/RogerLiang0725/ResBIM)  
+- [GitHub Pages (this site)](https://rogerliang0725.github.io/ResBIM/)  
+- [Paper DOI](https://doi.org/10.1016/j.autcon.2025.106584)
+
 ## Figures
 
 <h1 align="center"><img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/2346ea41-9b7f-45ea-8582-984eef955f8a" /></h1>
