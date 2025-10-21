@@ -14,7 +14,7 @@ Because ResBIM is a public dataset, so everyone can download and use it. But you
 
 This video tutorial introduces how you can laverage the source codes and start to develop and customerize your own dataset.  If you have a similar research with mine, I believe ResBIM dataset and the source codes are helpful to accelerate your research. 
 
-- [YouTube](https://youtu.be/5yEkafzuclk）
+- [YouTube](https://www.youtube.com/watch?v=5yEkafzuclk)
 
 - [BiliBili](https://www.bilibili.com/video/BV1dvWmzTEcc)
 
