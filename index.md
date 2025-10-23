@@ -1,6 +1,6 @@
 # ResBIM dataset
 
-- [GitHub Pages (this site)](https://rogerliang0725.github.io/ResBIM/)
+- [GitHub Repository](https://github.com/RogerLiang0725/ResBIM)  
 
 Welcome to **Res**idential Unit **BIM** dataset (**ResBIM** dataset), this is a totally PUBLIC dataset.
 
