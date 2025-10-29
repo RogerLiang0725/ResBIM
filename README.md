@@ -1,3 +1,6 @@
+<!-- Google Search Console Verification -->
+<meta name="google-site-verification" content="nvzEmUw63D-REBQHZFxUNcmL4_NfoZ0AhmHsoF6_jDQ" />
+
 # ResBIM Dataset
 
 ## 1. Introduction of ResBIM dataset
