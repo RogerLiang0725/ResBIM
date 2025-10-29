@@ -4,15 +4,14 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta property="og:image" content="assets/teaser/25516427.png" />
-  <meta property="og:title" content="WAFFLE: Multimodal Floorplan Understanding in the Wild" />
+  <meta property="og:image" content="assets/teaser/resbim_teaser.png" />
+  <meta property="og:title" content="ResBIM: Fully Automated Synthetic BIM Dataset Generation" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
     integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
   <link rel="stylesheet" href="web/style.css">
-  <link rel="stylesheet" href="web/table.css">
-  <title>WAFFLE: Multimodal Floorplan Understanding in the Wild</title>
+  <title>ResBIM: Fully Automated Synthetic BIM Dataset Generation</title>
   <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon_io/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon_io/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon_io/favicon-16x16.png">
@@ -35,11 +34,11 @@
     <div class='row mt-5 mb-3'>
       <div class='col text-center'>
         <p class="h2 font-weight-normal">
-          <img src="assets/waffle.png" alt="Waffle icon" style="width: 50px; height: 50px;">
-          <b>WAFFLE</b>
+          <img src="assets/resbim_logo.png" alt="ResBIM icon" style="width: 50px; height: 50px;">
+          <b>ResBIM</b>
         </p>
         <p class="h2 font-weight-normal">
-          Multimodal Floorplan Understanding in the Wild
+          Fully Automated Synthetic BIM Dataset Generation Using a Deep Learning-Based Framework
         </p>
       </div>
     </div>
@@ -47,10 +46,9 @@
     <!-- authors -->
     <div class="row mb-2">
       <div class="col text-center h6 font-weight-bold">
-        <span class="mx-2"><a class="pb-2" href="https://www.linkedin.com/in/keren-ganon/"> Keren Ganon*</a><sup>1</sup></span>
-        <span class="mx-2"><a class="pb-2" href="https://morrisalp.github.io/">Morris Alper*</a><sup>1</sup></span>
-        <span class="mx-2"><a class="pb-2" href="https://www.linkedin.com/in/rachel-mikulinsky-3a099411b/">Rachel Mikulinsky</a><sup>1</sup></span>
-        <span class="mx-2"><a class="pb-2" href="https://www.elor.sites.tau.ac.il/">Hadar Averbuch-Elor</a><sup>1,2</sup></span>
+        <span class="mx-2"><a class="pb-2">Xing Liang</a><sup>1</sup></span>
+        <span class="mx-2"><a class="pb-2">Nobuyoshi Yabuki</a><sup>1</sup></span>
+        <span class="mx-2"><a class="pb-2">Tomohiro Fukuda</a><sup>1</sup></span>
       </div>
     </div>
 
@@ -58,37 +56,32 @@
     <div class='row mb-1'>
       <div class='col text-center'>
         <p class="h6">
-          <sup>1</sup><a href="https://english.tau.ac.il/"><span>Tel Aviv University</span></a>,
-          <sup>2</sup><a href="https://www.cornell.edu/"><span>Cornell University</span></a>
+          <sup>1</sup>Osaka University
         </p>
       </div>
     </div>
-
 
     <!-- venue -->
     <div class="row mb-2">
       <div class="col text-center">
           <p class="h6">
-              WACV 2025 (Oral Presentation)
-              <br>
-              * Equal Contribution
+              Automation in Construction (2026)
           </p>
       </div>
-  </div>
-
+    </div>
 
     <!-- links -->
     <div class="row mb-4">
       <div class="col text-center">
-          <a href="https://arxiv.org/abs/2412.00955" target="_blank" class="btn btn-outline-primary" role="button">
-              <i class="ai ai-arxiv"></i>
-              arXiv
+          <a href="https://doi.org/10.1016/j.autcon.2025.106584" target="_blank" class="btn btn-outline-primary" role="button">
+              <i class="ai ai-doi"></i>
+              DOI
           </a>
-          <a href="https://github.com/TAU-VAILab/WAFFLE" target="_blank" class="btn btn-outline-primary" role="button">
+          <a href="https://github.com/RogerLiang0725/ResBIM" target="_blank" class="btn btn-outline-primary" role="button">
               <i class="fa fa-github"></i>
               Code
           </a>
-          <a href="https://tauex-my.sharepoint.com/:f:/g/personal/hadarelor_tauex_tau_ac_il/EqMX9nRbJ9xFiK7dR_m07b8BldS2saoZ4-ockqncJb_Hrg?e=zGIuos" target="_blank" class="btn btn-outline-primary" role="button">
+          <a href="https://drive.google.com/file/d/1MzY92Xw0bOjCWDHMJtWjqYzZew_MOhUS/view" target="_blank" class="btn btn-outline-primary" role="button">
               <i class="fa fa-database"></i>
               Dataset
           </a>
@@ -99,118 +92,86 @@
     <div class='row justify-content-center'>
 
       <div class="card teaser teaser_img_card">
-        <img src="assets/teaser/1663454.png" class="img-fluid rounded mx-auto d-block teaser_img"
+        <img src="assets/teaser/bim.png" class="img-fluid rounded mx-auto d-block teaser_img"
           style="height: 110px;">
-        <p class="teaser_desc">temple</p>
+        <p class="teaser_desc">BIM model</p>
       </div>
       <div class="card teaser teaser_img_card">
-        <img src="assets/teaser/5016525.jpg" class="img-fluid rounded mx-auto d-block teaser_img"
-        style="height: 110px;">
-        <p class="teaser_desc">church</p>
+        <img src="assets/teaser/floorplan.png" class="img-fluid rounded mx-auto d-block teaser_img"
+          style="height: 110px;">
+        <p class="teaser_desc">Annotated floor plan</p>
       </div>
       <div class="card teaser teaser_img_card">
-        <img src="assets/teaser/17064746.png" class="img-fluid rounded mx-auto d-block teaser_img"
-        style="height: 110px;">
-        <p class="teaser_desc">castle</p>
+        <img src="assets/teaser/pointcloud.png" class="img-fluid rounded mx-auto d-block teaser_img"
+          style="height: 110px;">
+        <p class="teaser_desc">Point cloud</p>
       </div>
-      <div class="card teaser teaser_img_card">
-        <img src="assets/teaser/25516427.png" class="img-fluid rounded mx-auto d-block teaser_img" style="height: 110px;">
-        <p class="teaser_desc" style="font-size: 16px;">residential</p>
-      </div>
-      <div class="card teaser teaser_img_card">
-        <img src="assets/teaser/40964962.png" class="img-fluid rounded mx-auto d-block teaser_img"
-        style="height: 110px;">
-        <p class="teaser_desc">castle</p>
-      </div>
-
 
       <div class='text-center col-md-12 col-sm-12 col-xs-12 align-middle mt-1'>
         <p class='h6'>
           <em>
-            Samples from the WAFFLE dataset.
-            <br>
-            What type of building does each image depict?
-            <br>
-            (Hover to see the answers.)
+            Examples from the ResBIM dataset.  
+            Each BIM model corresponds to an annotated floor plan and an RGB point cloud representation.
           </em>
         </p>
       </div>
 
       <div class='col-md-12 col-sm-12 col-xs-12 align-middle mt-1'>
         <p class="text-break">
-          <b>TL;DR:</b> We introduce <b><i>WAFFLE</i></b>, a new dataset of nearly 20K floorplans, which includes a wide variety of building plans from different countries, types and formats. 
+          <b>TL;DR:</b> We introduce <b><i>ResBIM</i></b>, a synthetic BIM dataset of 1000+ paired samples of 3D parametric BIMs and annotated 2D floor plans, created using CNNs and rule-based algorithms for research in 2D-to-BIM automation.
         </p>
       </div>
     </div>
-
   </div>
 
   <!-- abstract -->
   <div class="row">
     <div class="col-md-12 col-sm-12 col-xs-12">
       <p class="h4 font-weight-bold title">Abstract</p>
-      <p class="abstract"><!--style="line-height: 1;">-->
-        Buildings are a central feature of human culture and are increasingly being analyzed with computational methods. However, recent works on computational building understanding have largely focused on natural imagery of buildings, neglecting the fundamental element defining a building's structure -- its floorplan. Conversely, existing works on floorplan understanding are extremely limited in scope, often focusing on floorplans of a single semantic category and region (e.g. floorplans of apartments from a single country).
-        In this work, we introduce <b><i>WAFFLE</i></b>, a novel multimodal floorplan understanding dataset of nearly 20K floorplan images and metadata curated from Internet data spanning diverse building types, locations, and data formats. By using a large language model and multimodal foundation models, we curate and extract semantic information from these images and their accompanying noisy metadata. We show that <b><i>WAFFLE</i></b> enables progress on new building understanding tasks, both discriminative and generative, which were not feasible using prior datasets. We will publicly release <b><i>WAFFLE</i></b> along with our code and trained models, providing the research community with a new foundation for learning the semantics of buildings.
+      <p class="abstract">
+        ResBIM is a synthetic dataset designed to advance automation in BIM reconstruction from 2D floor plans.
+        It includes over 1000 paired samples of fully parametric 3D BIMs and annotated 2D floor plans generated by a deep learning and rule-based hybrid framework.
+        Each BIM model supports automatic derivation of multiple 2D views (plans, elevations, and sections) and RGB point clouds.
+        The dataset serves as a foundation for developing and benchmarking 2D-to-BIM algorithms, multi-platform BIM interoperability, and vision-based architectural analysis.
+        The source code, including Revit add-ins and Python networks, is released to facilitate research replication and further dataset expansion.
       </p>
     </div>
   </div>
 
-    <!-- gallery -->
+  <!-- downloads -->
   <div>
     <hr>
-    <div class="row" id="gallery">
+    <div class="row">
       <div class='col-md-12 col-sm-12 col-xs-12'>
-        <p class='h4 font-weight-bold title'>Floorplan Gallery</p>
-        <p class="gall-text">
-          View random samples from <b><i>WAFFLE</i></b> using the slider provided below. We clustered the building types into 10 high level categories - select one of these to view samples belonging to these categories. Every click yields a different sample (make sure to switch between types to trigger a new sample).
-          Each sample lists the building type, name, country of origin and the raw data scraped from Wikimedia Commons. When available, we also list architectural features that are grounded in the image by a legend or text on the floorplan image. The gallery contains a total of 500 images: our entire test set (~300 images) and ~200 randomly-selected images from our training set.
-        </p>
-        <select id="gall-select" class="custom-select custom-select-lg mb-3">
-          <option value="institutional (train)">institutional (train)</option>
-          <option value="institutional (test)">institutional (test)</option>
-          <option value="public & commercial (train)">public & commercial (train)</option>
-          <option value="public & commercial (test)">public & commercial (test)</option>
-          <option value="religious (train)">religious (train)</option>
-          <option value="religious (test)">religious (test)</option>
-          <option value="healthcare & transportation (train)">healthcare & transportation (train)</option>
-          <option value="healthcare & transportation (test)">healthcare & transportation (test)</option>
-          <option value="residential (train)">residential (train)</option>
-          <option value="residential (test)">residential (test)</option>
-          <option value="temples & tombs (train)">temples & tombs (train)</option>
-          <option value="temples & tombs (test)">temples & tombs (test)</option>
-          <option value="historic (train)">historic (train)</option>
-          <option value="historic (test)">historic (test)</option>
-          <option value="palaces & mansions (train)">palaces & mansions (train)</option>
-          <option value="palaces & mansions (test)">palaces & mansions (test)</option>
-          <option value="educational (train)">educational (train)</option>
-          <option value="educational (test)">educational (test)</option>
-          <option value="castles & fortresses (train)">castles & fortresses (train)</option>
-          <option value="castles & fortresses (test)">castles & fortresses (test)</option>
-        </select>
-        <div id="gall-img"></div>
+        <p class='h4 font-weight-bold title'>Dataset and Source Codes</p>
+        <ul>
+          <li><a href="https://drive.google.com/file/d/1gh4TiEJGkcjuqtO2e13mVQOYxWl5oGbI/view">One data sample</a></li>
+          <li><a href="https://drive.google.com/file/d/1WvWMU4Ox459QXr1kYLfTqaMp2rR0mfpO/view">100 models (700 MB)</a></li>
+          <li><a href="https://drive.google.com/file/d/1MzY92Xw0bOjCWDHMJtWjqYzZew_MOhUS/view">Full dataset (7 GB, 1000+ models)</a></li>
+          <li><a href="https://drive.google.com/file/d/1KBy_ff7xQid32mTbLn__uJ6SuPaWu3vL/view">Source codes (400 MB)</a></li>
+        </ul>
       </div>
     </div>
     <hr>
   </div>
-
-  <script src="web/gallery.js"></script>
 
   <!-- citation -->
   <div class="row">
       <div class="col-md-12 col-sm-12 col-xs-12">
         <p class="h4 font-weight-bold title">Citation</p>
-        <pre><code>@misc{ganon2024wafflemultimodalfloorplanunderstanding,
-  title={WAFFLE: Multimodal Floorplan Understanding in the Wild}, 
-  author={Keren Ganon and Morris Alper and Rachel Mikulinsky and Hadar Averbuch-Elor},
-  year={2024},
-  eprint={2412.00955},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV},
-  url={https://arxiv.org/abs/2412.00955}, 
+        <pre><code>@article{LIANG2026106584,
+  title = {Fully automated synthetic BIM dataset generation using a deep learning-based framework},
+  journal = {Automation in Construction},
+  volume = {181},
+  pages = {106584},
+  year = {2026},
+  issn = {0926-5805},
+  doi = {https://doi.org/10.1016/j.autcon.2025.106584},
+  url = {https://www.sciencedirect.com/science/article/pii/S0926580525006247},
+  author = {Xing Liang and Nobuyoshi Yabuki and Tomohiro Fukuda}
 }</code></pre>
       </div>
-    </div>
-</body>
+  </div>
 
+</body>
 </html>
