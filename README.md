@@ -1,8 +1,6 @@
----
-title: ResBIM Dataset
----
+# ResBIM Dataset
 
-# Introduction of ResBIM dataset
+## Introduction of ResBIM dataset
 Welcome to **Res**idential Unit **BIM** dataset (**ResBIM** dataset), this is a totally PUBLIC dataset.
 
 This dataset is a part of the contributions of our paper titled <b><i>"Fully automated synthetic BIM dataset generation using a deep learning-based framework"</i></b> in *Automation in Construction*.
