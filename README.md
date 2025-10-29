@@ -1,6 +1,6 @@
-<meta name="google-site-verification" content="nvzEmUw63D-REBQHZFxUNcmL4_NfoZ0AhmHsoF6_jDQ" />
-
 # ResBIM Dataset
+
+This is the official repository of ResBIM Dataset.
 
 ## 1. Introduction of ResBIM dataset
 Welcome to **Res**idential Unit **BIM** dataset (**ResBIM** dataset), this is a totally PUBLIC dataset.
