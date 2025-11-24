@@ -14,13 +14,7 @@ If you use the ResBIM data or code please cite our work:
 Liang, X., Yabuki, N., & Fukuda, T. (2026). Fully automated synthetic BIM dataset generation using a deep learning-based framework. Automation in Construction, 181, 106584. https://doi.org/10.1016/j.autcon.2025.106584
 
 ## 2. Tutorial: How to create your own dataset by using the source codes
-Because ResBIM is a public dataset, so everyone can download and use it. But you can develop **new models** or even **new methodology** based on the source codes. 
-
-This video tutorial introduces how you can laverage the source codes and start to develop and customerize your own dataset.  If you have a similar research with mine, I believe ResBIM dataset and the source codes are helpful to accelerate your research. 
-
-- [YouTube](https://www.youtube.com/watch?v=5yEkafzuclk)
-
-- [BiliBili](https://www.bilibili.com/video/BV1dvWmzTEcc)
+Because ResBIM is a public dataset, so everyone can download and use it. And you can develop **new models** or even **new methodology** based on the source codes. 
 
 
 ## 3. Usage of ResBIM dataset
