@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rogerliang0725.github.io/ResBIM/sitemap.xml
