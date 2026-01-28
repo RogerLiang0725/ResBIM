@@ -59,14 +59,21 @@ This project is licensed under the [MIT License](./LICENSE) - see the LICENSE fi
 
 ## Figures
 
-<h1 align="center"><img width="600" height="400" alt="image" src="ResBIM/assets/teaser/BIM.png" /></h1>
-
+<h1 align="center">
+  <img width="600" height="400" alt="BIM model"
+       src="assets/teaser/BIM.png" />
+</h1>
 <h1 align="center"><b>Figure 1.</b> BIM in ResBIM dataset</h1>
 
-<h1 align="center"><img width="500" height="510" alt="image" src="ResBIM/assets/teaser/floorplan.png" /></h1>
-
+<h1 align="center">
+  <img width="500" height="510" alt="Annotated floor plan"
+       src="assets/teaser/floorplan.png" />
+</h1>
 <h1 align="center"><b>Figure 2.</b> Corresponding annotated floor plan</h1>
 
-<h1 align="center"><img width="680" height="490" alt="image" src="ResBIM/assets/teaser/pointcloud.png" /></h1>
-
+<h1 align="center">
+  <img width="680" height="490" alt="RGB point cloud"
+       src="assets/teaser/pointcloud.png" />
+</h1>
 <h1 align="center"><b>Figure 3.</b> Corresponding RGB point cloud</h1>
+
